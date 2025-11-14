@@ -151,11 +151,3 @@ For developers who wish to integrate their own CRM or customize the behavior of 
 - **Customizing Prompts**: Update the prompts used for qualifying leads, generating reports, personalizing emails, and preparing interview questions.
 
 ---
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you’d like to see.
-
-## Contact
-
-For questions or suggestions, contact me at `aymenMir1001@gmail.com`.
